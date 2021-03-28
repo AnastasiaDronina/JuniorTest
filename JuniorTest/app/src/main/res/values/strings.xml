@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">JuniorTest</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="kids_friendly_explained">This medication is safe for kids\' use</string>
+    <string name="loading_error">An error occurred while loading data</string>
+    <string name="try_again">Try again</string>
+</resources>

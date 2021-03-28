@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="average_space">16dp</dimen>
+    <dimen name="small_space">8dp</dimen>
+    <dimen name="minimal_space">4dp</dimen>
+    <dimen name="small_icon">35dp</dimen>
+    <dimen name="average_icon">60dp</dimen>
+    <dimen name="small_elevation">1dp</dimen>
+    <dimen name="average_elevation">4dp</dimen>
+    <dimen name="round_image_boarder">2dp</dimen>
+    <dimen name="round_corner_radius">100dp</dimen>
+    <dimen name="card_edges">0dp</dimen>
+</resources>

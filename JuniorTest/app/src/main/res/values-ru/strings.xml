@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kids_friendly_explained">Это лекарство можно использовать детям</string>
+    <string name="loading_error">При загрузке произошла ошибка</string>
+    <string name="try_again">Повторить</string>
+</resources>

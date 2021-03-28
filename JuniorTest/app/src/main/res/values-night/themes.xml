@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="BaseTheme">
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="placeholder_color">@color/dark_gray</item>
+    </style>
+</resources>
